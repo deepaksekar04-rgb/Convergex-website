@@ -1,0 +1,13 @@
+{
+  "name": "convergex-api",
+  "version": "1.0.0",
+  "description": "ConvergeX 2026 local registration API — zero dependencies",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
